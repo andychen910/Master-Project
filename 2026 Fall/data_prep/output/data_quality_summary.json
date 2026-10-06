@@ -1,0 +1,86 @@
+{
+  "fred_source": "2026-03-QD.csv",
+  "fred_transform_codes": {
+    "CPIAUCSL": 6,
+    "FEDFUNDS": 2,
+    "GS10": 2,
+    "HOUST": 5,
+    "PERMIT": 5,
+    "PAYEMS": 5
+  },
+  "national_rows": 268,
+  "national_first_quarter": "1959Q1",
+  "national_last_quarter": "2025Q4",
+  "panel_rows": 1428,
+  "panel_states": [
+    "AZ",
+    "CA",
+    "FL",
+    "IL",
+    "NY",
+    "OH",
+    "TX"
+  ],
+  "all_expected_states_present": true,
+  "duplicate_state_quarters": 0,
+  "quarter_gaps_by_state": {
+    "AZ": [],
+    "CA": [],
+    "FL": [],
+    "IL": [],
+    "NY": [],
+    "OH": [],
+    "TX": []
+  },
+  "state_summary": {
+    "AZ": {
+      "observations": 204,
+      "first_quarter": "1975Q1",
+      "last_quarter": "2025Q4",
+      "missing_macro_quarters": 0,
+      "missing_hpi_growth": 1
+    },
+    "CA": {
+      "observations": 204,
+      "first_quarter": "1975Q1",
+      "last_quarter": "2025Q4",
+      "missing_macro_quarters": 0,
+      "missing_hpi_growth": 1
+    },
+    "FL": {
+      "observations": 204,
+      "first_quarter": "1975Q1",
+      "last_quarter": "2025Q4",
+      "missing_macro_quarters": 0,
+      "missing_hpi_growth": 1
+    },
+    "IL": {
+      "observations": 204,
+      "first_quarter": "1975Q1",
+      "last_quarter": "2025Q4",
+      "missing_macro_quarters": 0,
+      "missing_hpi_growth": 1
+    },
+    "NY": {
+      "observations": 204,
+      "first_quarter": "1975Q1",
+      "last_quarter": "2025Q4",
+      "missing_macro_quarters": 0,
+      "missing_hpi_growth": 1
+    },
+    "OH": {
+      "observations": 204,
+      "first_quarter": "1975Q1",
+      "last_quarter": "2025Q4",
+      "missing_macro_quarters": 0,
+      "missing_hpi_growth": 1
+    },
+    "TX": {
+      "observations": 204,
+      "first_quarter": "1975Q1",
+      "last_quarter": "2025Q4",
+      "missing_macro_quarters": 0,
+      "missing_hpi_growth": 1
+    }
+  }
+}
